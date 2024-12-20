@@ -1,4 +1,4 @@
-import sys, glob, importlib, logging, logging.config, pytz, asyncio
+import sys, glob, importlib, logging, logging.config, pyz, asyncio
 from pathlib import Path
 
 # Get logging configurations
